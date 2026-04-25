@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankurpal01&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="https://www.linkedin.com/in/ankur-pal-3a1a36237">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Open%20To%20Work-brightgreen?style=flat&logo=googlechrome&logoColor=white" />
@@ -27,28 +27,17 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-
-  <!-- Languages & Query -->
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-  <!-- Data & Analysis -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-  <!-- BI & Visualization -->
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-
-  <!-- Spreadsheets -->
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
 </p>
 
 ---
@@ -59,7 +48,7 @@
 |---|---|---|---|
 | [☕ Coffee_Shop_Sales](https://github.com/ankurpal01/Coffee_Shop_Sales) | Excel, Pivot Tables | Sales trend analysis for a coffee shop — monthly revenue, top products & peak hours dashboard | Interactive Excel dashboard with slicers |
 | [📦 Vrinda_sales-Report](https://github.com/ankurpal01/Vrinda_sales-Report) | Excel | Annual sales performance report for Vrinda Store with data cleaning & visualization | Full-year business performance review |
-| [🗃️ SheetStore](https://github.com/ankurpal01/SheetStore) | Google Sheets | Data management & inventory tracking system using Google Sheets automation | 18 commits — actively maintained |
+| [🗃️ SheetStore](https://github.com/ankurpal01/SheetStore) | Google Sheets | Data management & inventory tracking system using Google Sheets automation | Actively maintained |
 | [📊 agrawalji](https://github.com/ankurpal01/agrawalji) | Python, Pandas | Business data analysis project with exploratory data analysis & insights | Python-based EDA with visual outputs |
 
 ---
@@ -80,7 +69,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankurpal01&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ankurpal01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </p>
 
 ---
@@ -94,7 +83,7 @@ ankur = {
     "skills"      : ["SQL", "Python", "Excel", "Power BI", "Tableau", "Pandas"],
     "strengths"   : ["Data Cleaning", "EDA", "Dashboard Design", "Reporting"],
     "currently"   : "Building data projects & open to new opportunities",
-    "contact"     : "LinkedIn → YOUR_LINKEDIN_URL"
+    "contact"     : "LinkedIn → https://www.linkedin.com/in/ankur-pal-3a1a36237"
 }
 ```
 
@@ -103,7 +92,7 @@ ankur = {
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="https://www.linkedin.com/in/ankur-pal-3a1a36237">
     <img src="https://img.shields.io/badge/LinkedIn-Ankur%20Pal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
